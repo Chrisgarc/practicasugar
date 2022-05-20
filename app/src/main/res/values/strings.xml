@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practicasugar</string>
+    <string name="editTextApellidos">Escriba sus apellidos</string>
+    <string name="editTextNombres">Escriba sus nombres</string>
+    <string name="editTextFoto">Pegue aquì la URL</string>
+    <string name="buttonGuardar" />
+    <string name="buttonListado" />
+</resources>
